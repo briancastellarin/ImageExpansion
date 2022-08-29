@@ -3,9 +3,7 @@
 *				Image Expansion JS  - Version: 1.0
 *					
 *				Contact:
-*								www.twitter.com/thizk
-*								www.facebook.com/briancastellarin
-*								@ waiting4youu@hotmail.com
+*								www.twitter.com/thizk 
 
 
 # HTML CODE:
